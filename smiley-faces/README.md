@@ -1,6 +1,7 @@
 # Smiley faces
 
 ## Description:
+
 Given an array (arr) as an argument complete the function *countSmileys* that should return the total number of smiling faces.
 Rules for a smiling face:
 - Each smiley face must contain a valid pair of eyes. Eyes can be marked as : or ;
